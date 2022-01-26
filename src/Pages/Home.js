@@ -1,6 +1,8 @@
+import "./pages.css";
+
 function Home () {
     return (
-        <h1>Welcome to our Budgeting App!!!</h1>
+        <h1 className="home">Welcome to our Budgeting App!!!</h1>
     )
 }
 

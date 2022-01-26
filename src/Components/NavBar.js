@@ -7,7 +7,7 @@ function NavBar () {
             <h1>
                 <Link to="/transactions">Budget App</Link>
             </h1>
-            <img src="https://images.moneycontrol.com/static-mcnews/2021/12/budget-2022-770x433.jpg" alt="navBar-img" />
+            <Link to="/"><img src="https://images.moneycontrol.com/static-mcnews/2021/12/budget-2022-770x433.jpg" alt="navBar-img" /></Link>
             <button>
                 <Link to="/transactions/new">NEW TRANSACTION</Link>
             </button>
