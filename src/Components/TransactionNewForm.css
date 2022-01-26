@@ -1,0 +1,22 @@
+.new-form {
+    margin: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 15px;
+
+}
+
+#submitNew {
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color : coral;
+    margin-left: 5px;
+    border-radius: 15px;
+    opacity: 0.85;
+}
