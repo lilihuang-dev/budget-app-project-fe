@@ -2,7 +2,7 @@ import TransactionsDetails from "../Components/TransactionsDetails"
 
 function Show () {
     return (
-        <div className="Show">
+        <div className="show">
             <h1>Details</h1>
             <TransactionsDetails />
         </div>

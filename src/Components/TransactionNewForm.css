@@ -5,7 +5,7 @@
 }
 
 input {
-    width: 300px;
+    width: 650px;
     padding: 10px;
     margin-left: 20px;
     border-radius: 15px;
@@ -16,7 +16,7 @@ input {
     font-size: large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color : coral;
-    margin-left: 5px;
-    border-radius: 15px;
+    margin: 35px 15px;
+    border-radius: 55px;
     opacity: 0.85;
 }

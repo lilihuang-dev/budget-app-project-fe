@@ -1,8 +1,15 @@
 .TransactionsDetails {
+    display: flex;
     margin: 60px;
 }
 
+.TransactionsDetails h3{
+    font-size: 25px;
+    margin: 30px;
+}
+
 button {
+    font-size: 20px;
     margin: 5px;
     padding: 10px;
 }

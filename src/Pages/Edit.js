@@ -2,8 +2,10 @@ import TransactionEditForm from "../Components/TransactionEditForm";
 
 function Edit (){
     return (
-        <div className="Edit">
-            <h2>Edit</h2>
+        <div className="edit">
+            <h1>Edit</h1>
+            <br />
+            <br />
             <TransactionEditForm />
         </div>
     )

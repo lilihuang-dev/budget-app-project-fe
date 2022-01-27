@@ -1,5 +1,14 @@
 .home {
     font-size: xx-large;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
+}
+
+.index{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.new, .edit, .show h1{
+    margin: 40px 60px ;
 }
