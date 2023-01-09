@@ -2,7 +2,7 @@
 https://github.com/LILYHUANGPURSUIT/budget-app-project-be
 
 ## Frontend GitHub Link
-https://github.com/LILYHUANGPURSUIT/budget-app-project-fe/blob/main/README.md
+https://github.com/LILYHUANGPURSUIT/budget-app-project-fe
 
 ## Deployed Backend Link
 https://budget-app-project-be.adaptable.app
