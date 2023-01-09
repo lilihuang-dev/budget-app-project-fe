@@ -5,7 +5,7 @@ https://github.com/LILYHUANGPURSUIT/budget-app-project-be
 https://github.com/LILYHUANGPURSUIT/budget-app-project-fe/blob/main/README.md
 
 ## Deployed Backend Link
- https://lh-backend-budget-app.herokuapp.com/
+https://budget-app-project-be.adaptable.app
 
 ## Deployed Frontend Link
 https://lh-budgeting-app-2022.netlify.app/
